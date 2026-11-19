@@ -6,3 +6,8 @@ body {
 .markdown-body {
   width: 85%;
 }
+
+table {
+  display: block;
+  overflow-x: auto;
+}
